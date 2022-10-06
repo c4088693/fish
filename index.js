@@ -1,4 +1,7 @@
 console.log("hello");
+console.log("hello");
+console.log("hello");
+console.log("hello");
 
 echo "# fish" >> README.md
 git init
